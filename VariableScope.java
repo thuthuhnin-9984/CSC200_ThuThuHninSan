@@ -1,4 +1,4 @@
-public class VariableScope2 {
+public class VariableScope {
 
     // Static variable (class-level, shared by all objects)
     static int staticVar = 100;
